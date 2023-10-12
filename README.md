@@ -2,7 +2,7 @@
 Du Lịch Đà Lạt
 Thành phố Đà Lạt nằm ở cao nguyên Lâm Viên, tỉnh Lâm Đồng, miền Trung Việt Nam cao khoảng 1.500 mét trên mực nước biển. Vì vậy, Đà Lạt được biết đến với khí hậu mát mẻ và không khí trong lành. Ngoài ra, Đà Lạt thường được gọi là "thành phố của tình yêu" hoặc "thành phố của nghìn hoa" vì có khí hậu và địa hình thuận lợi cho việc trồng hoa và tạo ra những cảnh quan tuyệt đẹp.
 
-<img src="https://img3.thuthuatphanmem.vn/uploads/2019/07/13/hinh-anh-da-lat-dep-ve-dem_085718106.jpg">
+<img src="https://img3.thuthuatphanmem.vn/uploads/2019/07/13/hinh-anh-da-lat-dep-ve-dem_085718106.jpg" width="100%" height ="350px">
 
 Với cảnh quan núi non hùng vĩ, hồ nước xanh biếc và các khu vườn hoa rực rỡ, Đà Lạt thu hút du khách từ khắp nơi. Thành phố này có nhiều điểm đến nổi tiếng như Hồ Xuân Hương, Hồ Tuyền Lâm, Dinh Bảo Đại và Thác Prenn. Vì vậy, khách du lịch cũng có thể tham gia các hoạt động như đi bộ đường mòn, leo núi, câu cá, hay tham quan các vườn hoa và trang trại rau quả.
 
